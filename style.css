@@ -88,7 +88,7 @@ html {
 /* home section styling */
 .home {
   display: flex;
-  background: url('images/sebas.jpg') no-repeat center;
+  background: url('./images/sebas.jpg') no-repeat center;
   background-attachment: fixed;
   height: 100vh;
   color: #fff;
