@@ -877,7 +877,7 @@ footer p:nth-child(2) {
   .about .about-content .left {
     display: flex;
     justify-content: center;
-    margin: 0 auto 60px;
+    margin: 0 30px 60px;
   }
 
   .about .about-content .right {
