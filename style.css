@@ -714,11 +714,11 @@ footer p:nth-child(2) {
 .social-icons .fb a,
 .social-icons .insta a,
 .social-icons .gb a,
-.social-icons .yt a,
+.social-icons .in a,
 .a-social-b .fb-a a,
 .a-social-b .insta-a a,
 .a-social-b .gb-a a,
-.a-social-b .yt-a a {
+.a-social-b .in-a a {
   transition: 0.5s;
   color: #565555;
 }
@@ -741,9 +741,9 @@ footer p:nth-child(2) {
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
   transition: all ease 0.5s;
 }
-.social-icons .yt a:hover,
-.a-social-b .yt-a a:hover {
-  background: #ff0000;
+.social-icons .in a:hover,
+.a-social-b .in-a a:hover {
+  background: #0a66c2;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
   transition: all ease 0.5s;
 }
